@@ -17,6 +17,13 @@ public class jne {
         //DATA
         String NoResi[] = {"JNE598183","JNE995494","JNE688552","JNE778996","JNE266438","JNE736851","JNE458568","JNE573737","JNE284640","JNE884052","JNE441913","JNE746934","JNE598275","JNE511481","JNE655317","JNE478117","JNE755629"
 };
+        String provinsi[] = {"null", "Aceh","Sumatera Utara","Sumatera Barat","Riau","Kepulauan Riau"
+                ,"Jambi","Bengkulu","Sumatera Selatan","Kepulauan Bangka Belitung","Lampung","Banten"
+                ,"Jawa Barat","DKI Jakarta","Jawa Tengah","DI Yogyakarta","Jawa Timur","Bali"
+                ,"Nusa Tenggara Barat","Nusa Tenggara Timur","Kalimantan Utara","Kalimantan Barat"
+                ,"Kalimantan Tengah","Kalimantan Selatan","Kalimantan Timur","Gorontalo","Sulawesi Utara"
+                ,"Sulawesi Barat","Sulawesi Tengah","Sulawesi Selatan","Sulawesi Tenggara","Maluku Utara"
+                ,"Maluku","Papua Barat","Papua"};
         int jauh_prov[] = {0,4,3,3,3,3,3,3,3,3,2,2,2,2,2,2,2,2,1,2,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4};
         String jenis_paket[][] = {
             {"JENIS","OKE", "REG", "YES"},
